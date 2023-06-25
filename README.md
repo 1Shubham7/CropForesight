@@ -108,7 +108,7 @@ If you want to contribute to CropForesight or run it locally for development pur
 
 1. Clone the frontend repository:
 
-   ```git clone https://github.com/abhijeet141/CropForesight-FrontEnd.git```
+   ```git clone https://github.com/your_username/CropForesight-FrontEnd.git```
  
 
 2. Change to the project directory:
@@ -125,7 +125,7 @@ If you want to contribute to CropForesight or run it locally for development pur
 
 5. Clone the backend repository:
 
-   ```git clone https://github.com/abhijeet141/CropForesight_BackEnd.git```
+   ```git clone https://github.com/your_username/CropForesight_BackEnd.git```
 
 6. Change to the CropForesight_BackEnd directory:
 
@@ -152,6 +152,10 @@ If you want to contribute to CropForesight or run it locally for development pur
 
 ✅ Feel free to explore the website and witness the power of smart crop recommendation firsthand!
 
+## ✨ Thank You for Your Contribution!
+<a href="https://github.com/abhijeet141/CropForesight/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhijeet141/CropForesight" />
+</a>
 
 ## License 🪪
 This project is licensed under the MIT License.
@@ -160,3 +164,5 @@ Please feel free to modify the sections and add any additional information or ba
 <br><br>
  <a href="#top">Back to top</a>
 </div>
+
+<h3 align ="center">Show some ❤️ by 🌟 this awesome repository!</h3>
